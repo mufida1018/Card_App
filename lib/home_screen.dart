@@ -85,27 +85,27 @@ class HomeScreen extends StatelessWidget {
                         ],
                     ),
                       ),
-                    Padding(
-                      padding: const EdgeInsets.all(15.0),
-                      child: Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                        children: [
-                          Column(
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: [
-                              Icon(Icons.web,size: 25,),
-                              Text("www.mufida.com"),
-                            ],
-                          ),
-                          Column(
-                            children: [
-                              Icon(Icons.mail,size: 25,),
-                              Text("mufida@123.com"),
-                            ],
-                          ),
-                        ],
-                      ),
-                    ),
+                    // Padding(
+                    //   padding: const EdgeInsets.all(15.0),
+                    //   child: Row(
+                    //     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                    //     children: [
+                    //       Column(
+                    //         mainAxisAlignment: MainAxisAlignment.center,
+                    //         children: [
+                    //           Icon(Icons.web,size: 25,),
+                    //           Text("www.mufida.com"),
+                    //         ],
+                    //       ),
+                    //       Column(
+                    //         children: [
+                    //           Icon(Icons.mail,size: 25,),
+                    //           Text("mufida@123.com"),
+                    //         ],
+                    //       ),
+                    //     ],
+                    //   ),
+                    // ),
                   ],
                 ),
               ),
